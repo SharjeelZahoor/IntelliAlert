@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IntelliAlert</string>
+    <array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+    <array name="userTypes">
+        <item>Employee</item>
+        <item>Manager</item>
+    </array>
+    <array name="statusTypes">
+        <item>Active</item>
+        <item>In-Active</item>
+    </array>
+</resources>
